@@ -1,0 +1,15 @@
+﻿{
+  "App": {
+    "AccessKey": "",
+    "SecretKey": "",
+    "Region": "ap-southeast-2",
+    "Interval": 1000,
+    "Domains": [
+      {
+        "HostedZoneID": "hzid",
+        "Name": "sdn"
+      }
+    ]
+
+  }
+}
